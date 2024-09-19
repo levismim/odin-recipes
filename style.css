@@ -1,8 +1,9 @@
 body {
-    background-color: wheat;
-    color: black;
+    background-color: #ECF8F7;
+    color: #6C648B;
     text-align: center;
 }
+
 h1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -12,9 +13,31 @@ h1 {
     text-align: center;
         list-style-position: inside;
 }
-img {
-    max-height: 300px;
+
+.title {
+    background-color: #FAE7EB;
+    margin: auto 700px;
 }
+
+img {
+    max-width: 500px;
+}
+
+.description {
+background-color: #D8BBD3;
+margin: 5px 500px 5px;
+padding: 5px 50px;
+}
+
 li{
 text-align: left;
+}
+
+.ingredients {
+    background-color: #D1EDEA;
+    margin: auto 350px;
+}
+.directions {
+    background-color: #F2D7E8;
+    margin: auto 350px;
 }
