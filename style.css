@@ -11,12 +11,12 @@ h1 {
 .index {
     font-size: 25px;
     text-align: center;
-        list-style-position: inside;
+    list-style-position: inside;
 }
 
 .title {
     background-color: #FAE7EB;
-    margin: auto 700px;
+    margin: auto 150px;
 }
 
 img {
@@ -25,8 +25,7 @@ img {
 
 .description {
 background-color: #D8BBD3;
-margin: 5px 500px 5px;
-padding: 5px 50px;
+margin: 0 70px;
 }
 
 li{
@@ -35,9 +34,9 @@ text-align: left;
 
 .ingredients {
     background-color: #D1EDEA;
-    margin: auto 350px;
+    margin: 0 70px auto;
 }
 .directions {
     background-color: #F2D7E8;
-    margin: auto 350px;
+    margin: 0 70px auto;
 }
